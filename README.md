@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+![](https://komarev.com/ghpvc/?username=frauikram)
 <head>
   <meta name="google-site-verification" content="XLRCagQF7mOLQe66loR_KnLeuR3CNR6yLvzazSnm8QE" />
 </head>
