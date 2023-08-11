@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=frauikram)
-![github-frauikram-banner](https://github.com/frauikram/frauikram/assets/119944932/14d0471d-edd1-4636-b330-197a1259dfa4)
+<!--
+![github-frauikram-banner](https://github.com/frauikram/frauikram/assets/119944932/14d0471d-edd1-4636-b330-197a1259dfa4)-->
 
 
 <head>
