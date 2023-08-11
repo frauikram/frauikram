@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=frauikram)
+![github-frauikram-banner](https://github.com/frauikram/frauikram/assets/119944932/686cb835-f871-4ac8-9f9f-944dbe4591a6)
+
+<!-- ![Home](https://github.com/frauikram/github-frauikram-banner.png?raw=true) -->
+
 <head>
   <meta name="google-site-verification" content="XLRCagQF7mOLQe66loR_KnLeuR3CNR6yLvzazSnm8QE" />
 </head>
