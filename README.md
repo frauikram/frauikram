@@ -20,17 +20,14 @@
 
 ![](https://komarev.com/ghpvc/?username=frauikram)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frauikram&amp;theme=light&amp;hide_border=false" alt="" data-canonical-src="" style="max-width: 100%;">
-
-<p dir="auto">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=frauikram&rank_icon=github&show_icons=true" alt="Anurag's GitHub stats" data-canonical-src="" style="max-width: 100%;"> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=frauikram&amp;theme=light&amp;hide_border=false&include_all_commits=true&amp;count_private=true&ayout=compact" alt="" data-canonical-src="" style="max-width: 100%;">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=frauikram&rank_icon=github&show_icons=true&include_all_commits=true&amp;count_private=true&ayout=compact" alt="Frau's GitHub stats" data-canonical-src="" style="max-width: 100%;"> -->
   <!--
   https://github-readme-stats.vercel.app/api?username=frauikram&theme=light&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github  
   https://github-readme-stats.vercel.app/api?username=frauikram&rank_icon=percentile 
     -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frauikram&amp;theme=light&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=falseâmp;layout=compact" alt="" data-canonical-src="" style="max-width: 100%;">
- 
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frauikram&theme=light&include_all_commits=true&amp;count_private=true&ayout=compact" alt="" data-canonical-src="" style="max-width: 100%;">
+
 
 
 <!--     
