@@ -1,6 +1,6 @@
 # 👋 Hello & Welcome to my Github Page!
 🌱 Let's get started :
-😄 My pronouns are she/her!
+😄 I am Ms. Ikram.
 ✨🌅🧡 I like sunsets, just like the one I captured in Berlin.
 ### ![github-frauikram-banner](https://github.com/frauikram/frauikram/assets/119944932/14d0471d-edd1-4636-b330-197a1259dfa4)
 
