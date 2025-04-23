@@ -1,10 +1,11 @@
 # 👋 Hello & Welcome to my Github Page!
 🌱 Let's get started :
 😄 I am Ms. Ikram.
-✨🌅🧡 I like sunsets, just like the one I captured in Berlin.
+🌅🧡 I like sunsets, just like the one I captured in Berlin.
 ### ![github-frauikram-banner](https://github.com/frauikram/frauikram/assets/119944932/14d0471d-edd1-4636-b330-197a1259dfa4)
 
-# 🤔 Are you an employer? I might help with certain projects:
+# 🤝 Are you an employer? I can help with data-driven and data-centric projects.
+Whether you're building machine learning models, automating insights, or architecting systems with data at the core—I'm here to help turn your data into impact.
 
 
 ## ⚡My Tech stack
@@ -19,7 +20,7 @@
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
-### Machine Learning / Data & Analytics
+### 👩‍💻 Machine Learning / Data & Analytics
 <p>
 <img src="https://img.shields.io/badge/pandas-3670A0?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffdd54" alt="Pandas" data-canonical-src="" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -31,7 +32,7 @@
 </p>
 
 
-## Profile Summary
+## ✨ Profile Summary
 ### 🏅 Certificates
 <p>
 <img src="https://github.com/user-attachments/assets/4f483ed2-5d53-49a3-b87e-cf1462a1776c" height="200px" width="300px">
@@ -40,12 +41,19 @@
 <!-- <img src="" height="200px" width="300px"> -->
 </p>
 
-### 📫 How to reach me 
+### 📫 Interested in working together? Let’s connect.
 <p>
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+  <a href="https://t.me/msikrambot" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rehmaikram" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/rikram" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
 </p>
+
 
 ### 🔭 GitHub starts
 
