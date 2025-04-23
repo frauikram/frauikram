@@ -7,7 +7,7 @@
 # 🤔 Are you an employer? I might help with certain projects:
 
 
-## ⚡My Tech stack:
+## ⚡My Tech stack
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" data-canonical-src="" style="max-width: 100%;"> 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
-#### Machine Learning / Data & Analytics
+### Machine Learning / Data & Analytics
 <p>
 <img src="https://img.shields.io/badge/pandas-3670A0?style=for-the-badge&amp;logo=pandas&amp;logoColor=ffdd54" alt="Pandas" data-canonical-src="" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
@@ -31,15 +31,23 @@
 </p>
 
 
-## Profile Summary:
-#### 📫 How to reach me :
+## Profile Summary
+### 🏅 Certificates
+<p>
+<img src="https://github.com/user-attachments/assets/4f483ed2-5d53-49a3-b87e-cf1462a1776c" height="200px" width="300px">
+<img src="https://github.com/user-attachments/assets/26adeb15-1faf-4443-b794-69662c768823" height="200px" width="300px">
+<img src="https://github.com/user-attachments/assets/812f20ce-4a24-4082-af2e-d28b87773400" height="200px" width="300px">
+<!-- <img src="" height="200px" width="300px"> -->
+</p>
+
+### 📫 How to reach me 
 <p>
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </p>
 
-#### 🔭 GitHub starts
+### 🔭 GitHub starts
 
 ![](https://komarev.com/ghpvc/?username=frauikram)
 
