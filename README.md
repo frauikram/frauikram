@@ -54,9 +54,10 @@ Whether you're building machine learning models, automating insights, or archite
   </a>
 </p>
 
-
-### 🔭 GitHub starts
+<!--
+### 🔭 GitHub stats
 
 ![](https://komarev.com/ghpvc/?username=frauikram)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frauikram&theme=light&include_all_commits=true&amp;count_private=true&ayout=compact">
+-->
