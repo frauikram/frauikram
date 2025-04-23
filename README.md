@@ -15,8 +15,16 @@
 -->
 
 ## ⚡My Tech stack:
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" data-canonical-src="" style="max-width: 100%;"> 
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&amp;logo=sql&amp;logoColor=white" alt="SQL" data-canonical-src="" style="max-width:
+100%;">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python" data-canonical-src="" style="max-width: 100%;"> 
+</p>
 
 #### Machine Learning / Data & Analytics
 <p>
@@ -27,11 +35,9 @@
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="LINUX" data-canonical-src="" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 <!--
-##### Web Dev
+#### Web Dev
 <p>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" data-canonical-src="" style="max-width: 100%;"> 
 <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&amp;logo=django&amp;logoColor=white&amp;color=ff1709&amp;labelColor=gray" alt="DjangoREST" data-canonical-src="" style="max-width: 100%;">
@@ -48,11 +54,17 @@
 <!-- 
 #### DevOps
 <p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="LINUX" data-canonical-src="" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white"">
-<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white"> 
 </p>
 -->
 
+<!--
+#### Design
+<p>
+<img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&amp;logo=adobeillustrator&amp;logoColor=white"> 
+</p>
+-->
 
 ## Profile Summary:
 
