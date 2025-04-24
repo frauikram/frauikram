@@ -1,7 +1,8 @@
-# 👋 Hello & Welcome to my Github Page!
-🌱 Let's get started :
+# 👋 Welcome, glad you're here!
+🌱 Let's get started. 
+
 😄 I am Ms. Ikram.
-🌅🧡 I like sunsets, just like the one I captured in Berlin.
+🌅 I like sunsets, just like the one I captured in Berlin. 🧡 
 ### ![github-frauikram-banner](https://github.com/frauikram/frauikram/assets/119944932/14d0471d-edd1-4636-b330-197a1259dfa4)
 
 # 🤝 Are you an employer? I can help with data-driven and data-centric projects.
