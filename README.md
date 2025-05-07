@@ -37,11 +37,11 @@ Whether you're building machine learning models, automating insights, or archite
 ## ✨ Profile Summary
 ### 🏅 Certificates
 <p>
-<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-intermediate-ml.png" height="200px" width="300px">
-<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-intro-to-ml.png" height="200px" width="300px">
-<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-pandas.png" height="200px" width="300px">
-<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-python.png" height="200px" width="300px">
-<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-advanced-sql.png" height="200px" width="300px">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-intermediate-ml.png" height="31%" width="31%">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-intro-to-ml.png" height="31%" width="31%">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-pandas.png" height="31%" width="31%">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-python.png" height="31%" width="31%">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-advanced-sql.png" height="31%" width="31%">
 <!--   https://github.com/frauikram/frauikram/blob/main/images/ -->
 <!-- <img src="" height="200px" width="300px"> -->
 </p>
