@@ -2,8 +2,9 @@
 🌱 Let's get started. 
 
 😄 I am Ms. Ikram.
-🌅 I like sunsets, just like the one I captured in Berlin. 🧡 
-### ![github-frauikram-banner](https://github.com/frauikram/frauikram/assets/119944932/14d0471d-edd1-4636-b330-197a1259dfa4)
+🌅 I like sunsets, just like the one I captured in Berlin. 🧡
+### ![github-frauikram-banner](https://github.com/frauikram/frauikram/blob/main/images/github-frauikram-banner.png)
+<!-- ### ![github-frauikram-banner](https://github.com/frauikram/frauikram/assets/119944932/14d0471d-edd1-4636-b330-197a1259dfa4) -->
 
 # 🤝 Are you an employer? I can help with data-driven and data-centric projects.
 Whether you're building machine learning models, automating insights, or architecting systems with data at the core—I'm here to help turn your data into impact.
@@ -36,9 +37,12 @@ Whether you're building machine learning models, automating insights, or archite
 ## ✨ Profile Summary
 ### 🏅 Certificates
 <p>
-<img src="https://github.com/user-attachments/assets/4f483ed2-5d53-49a3-b87e-cf1462a1776c" height="200px" width="300px">
-<img src="https://github.com/user-attachments/assets/26adeb15-1faf-4443-b794-69662c768823" height="200px" width="300px">
-<img src="https://github.com/user-attachments/assets/812f20ce-4a24-4082-af2e-d28b87773400" height="200px" width="300px">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-intermediate-ml.png" height="200px" width="300px">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-intro-to-ml.png" height="200px" width="300px">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-pandas.png" height="200px" width="300px">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-python.png" height="200px" width="300px">
+<img src="https://github.com/frauikram/frauikram/blob/main/images/kaggle-advanced-sql.png" height="200px" width="300px">
+<!--   https://github.com/frauikram/frauikram/blob/main/images/ -->
 <!-- <img src="" height="200px" width="300px"> -->
 </p>
 
